@@ -1,1 +1,11 @@
 这是main
+
+命令
+git clone
+git branch
+git branch dev1
+git switch dev1
+git status
+git add ./
+git commit -m "第一次尝试提交分支dev1文件"
+git push origin dev1
